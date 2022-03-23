@@ -1,0 +1,16 @@
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\bin\Debug\net5.0\Stack - Parentheses Inspection.exe
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\bin\Debug\net5.0\Stack - Parentheses Inspection.deps.json
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\bin\Debug\net5.0\Stack - Parentheses Inspection.runtimeconfig.json
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\bin\Debug\net5.0\Stack - Parentheses Inspection.runtimeconfig.dev.json
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\bin\Debug\net5.0\Stack - Parentheses Inspection.dll
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\bin\Debug\net5.0\ref\Stack - Parentheses Inspection.dll
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\bin\Debug\net5.0\Stack - Parentheses Inspection.pdb
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\obj\Debug\net5.0\Stack - Parentheses Inspection.csprojAssemblyReference.cache
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\obj\Debug\net5.0\Stack - Parentheses Inspection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\obj\Debug\net5.0\Stack - Parentheses Inspection.AssemblyInfoInputs.cache
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\obj\Debug\net5.0\Stack - Parentheses Inspection.AssemblyInfo.cs
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\obj\Debug\net5.0\Stack - Parentheses Inspection.csproj.CoreCompileInputs.cache
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\obj\Debug\net5.0\Stack - Parentheses Inspection.dll
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\obj\Debug\net5.0\ref\Stack - Parentheses Inspection.dll
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\obj\Debug\net5.0\Stack - Parentheses Inspection.pdb
+E:\Visual Studio Project\Stack - Parentheses Inspection\Stack - Parentheses Inspection\obj\Debug\net5.0\Stack - Parentheses Inspection.genruntimeconfig.cache
